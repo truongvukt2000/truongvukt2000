@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on BE
+- 👯 I’m looking to collaborate on Backend (Nodejs)
 - 💬 Contact Infor:
 #### LinkedIn: [linkedin.com/in/truongvukt2000](https://www.linkedin.com/in/truongvukt2000)
 #### Email: truongvukt2000@gmail.com
